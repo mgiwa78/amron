@@ -259,9 +259,9 @@ export default function RootLayout({
         <button className="scroll-top">
           <i className="bi bi-arrow-up-short"></i>
         </button>
-        <Script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" />
-        <Script src="/vendor/html5shiv.js" />
-        <Script src="/vendor/respond.js" />
+        {/* <Script src="http://html5shiv.googlecode.com/svn/trunk/html5.js" /> */}
+        {/* <Script src="/vendor/html5shiv.js" /> */}
+        {/* <Script src="/vendor/respond.js" /> */}
         <Script src="/vendor/jquery.min.js" />
         <Script src="/vendor/bootstrap/js/bootstrap.bundle.min.js" />
         <Script src="/vendor/wow/wow.min.js" />
