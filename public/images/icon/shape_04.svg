@@ -1,0 +1,27 @@
+<svg width="206" height="124" viewBox="0 0 206 124" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_6_3492" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="206" height="124">
+<rect y="124" width="124" height="206" transform="rotate(-90 0 124)" fill="white"/>
+</mask>
+<g mask="url(#mask0_6_3492)">
+<circle cx="24" cy="119" r="2" transform="rotate(-90 24 119)" fill="white"/>
+<circle cx="24" cy="81" r="2" transform="rotate(-90 24 81)" fill="white"/>
+<circle cx="24" cy="43" r="2" transform="rotate(-90 24 43)" fill="white"/>
+<circle cx="24" cy="5" r="2" transform="rotate(-90 24 5)" fill="white"/>
+<circle cx="62" cy="119" r="2" transform="rotate(-90 62 119)" fill="white"/>
+<circle cx="62" cy="81" r="2" transform="rotate(-90 62 81)" fill="white"/>
+<circle cx="62" cy="43" r="2" transform="rotate(-90 62 43)" fill="white"/>
+<circle cx="62" cy="5" r="2" transform="rotate(-90 62 5)" fill="white"/>
+<circle cx="100" cy="119" r="2" transform="rotate(-90 100 119)" fill="white"/>
+<circle cx="100" cy="81" r="2" transform="rotate(-90 100 81)" fill="white"/>
+<circle cx="100" cy="43" r="2" transform="rotate(-90 100 43)" fill="white"/>
+<circle cx="100" cy="5" r="2" transform="rotate(-90 100 5)" fill="white"/>
+<circle cx="138" cy="119" r="2" transform="rotate(-90 138 119)" fill="white"/>
+<circle cx="138" cy="81" r="2" transform="rotate(-90 138 81)" fill="white"/>
+<circle cx="138" cy="43" r="2" transform="rotate(-90 138 43)" fill="white"/>
+<circle cx="138" cy="5" r="2" transform="rotate(-90 138 5)" fill="white"/>
+<circle cx="176" cy="119" r="2" transform="rotate(-90 176 119)" fill="white"/>
+<circle cx="176" cy="81" r="2" transform="rotate(-90 176 81)" fill="white"/>
+<circle cx="176" cy="43" r="2" transform="rotate(-90 176 43)" fill="white"/>
+<circle cx="176" cy="5" r="2" transform="rotate(-90 176 5)" fill="white"/>
+</g>
+</svg>
