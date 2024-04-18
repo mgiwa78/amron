@@ -326,7 +326,7 @@ const Services = (props: Props) => {
                   Apply for loan with low interest.
                 </h2>
                 <p className="fs-24 text-white">
-                  Apply for loan & get up to $20million with low interest
+                  Apply for loan & get up to ₦20million with low interest
                 </p>
               </div>
               <a href="contact.html" className="btn-six">
@@ -481,7 +481,7 @@ const Services = (props: Props) => {
                     <div className="col-xxl-6 col-sm-7">
                       <div className="counter-block-one mt-20">
                         <div className="main-count fw-500 color-dark">
-                          $<span className="counter">1.3</span>b+
+                          ₦<span className="counter">1.3</span>b+
                         </div>
                         <span>Property listing sold last year</span>
                       </div>

@@ -63,7 +63,7 @@ const About = (props: Props) => {
                     <div className="col-xxl-6 col-sm-7">
                       <div className="counter-block-one mt-20">
                         <div className="main-count fw-500 color-dark">
-                          $<span className="counter">1.3</span>b+
+                          ₦<span className="counter">1.3</span>b+
                         </div>
                         <span>Cumulative trading volume</span>
                       </div>

@@ -171,7 +171,7 @@ const Agents = (props: Props) => {
                       <div className="property-info d-flex justify-content-between align-items-end pt-30">
                         <div>
                           <strong className="price fw-500 color-dark">
-                            $2,210/ <sub>m</sub>
+                            ₦100,210/ <sub>m</sub>
                           </strong>
                           <div className="address pt-5 m0">
                             6391 Elgin St. Celina
@@ -222,7 +222,7 @@ const Agents = (props: Props) => {
                       <div className="property-info d-flex justify-content-between align-items-end pt-30">
                         <div>
                           <strong className="price fw-500 color-dark">
-                            $2,210/ <sub>m</sub>
+                            ₦80,210/ <sub>m</sub>
                           </strong>
                           <div className="address pt-5 m0">
                             6391 Elgin St. Celina
@@ -273,7 +273,7 @@ const Agents = (props: Props) => {
                       <div className="property-info d-flex justify-content-between align-items-end pt-30">
                         <div>
                           <strong className="price fw-500 color-dark">
-                            $1,23,710
+                            ₦19,230,710
                           </strong>
                           <div className="address pt-5 m0">
                             6391 Elgin St. Celina
@@ -324,7 +324,7 @@ const Agents = (props: Props) => {
                       <div className="property-info d-flex justify-content-between align-items-end pt-30">
                         <div>
                           <strong className="price fw-500 color-dark">
-                            $78,420
+                            ₦78,420
                           </strong>
                           <div className="address pt-5 m0">
                             6391 Elgin St. Celina

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 type Props = {};
@@ -53,29 +54,24 @@ const Footer = (props: Props) => {
                   <h5 className="footer-title">Links</h5>
                   <ul className="footer-nav-link style-none">
                     <li>
-                      <a href="index.html">Home</a>
+                      <Link href="/">Home</Link>
                     </li>
                     <li>
-                      <a href="dashboard/membership.html" target="_blank">
-                        Membership
-                      </a>
+                      <Link href="/properties">Properties</Link>
                     </li>
                     <li>
-                      <a href="about_us_01.html">About Company</a>
+                      <Link href="/about">About Amron</Link>
                     </li>
                     <li>
-                      <a href="blog_01.html">Blog</a>
+                      <Link href="/projects">Blog</Link>
                     </li>
                     <li>
-                      <a href="blog_02.html">Explore Careers</a>
+                      <Link href="/contact">Contact</Link>
                     </li>
                     <li>
-                      <a href="pricing_02.html">Pricing</a>
-                    </li>
-                    <li>
-                      <a href="dashboard/dashboard-index.html" target="_blank">
+                      <Link href="/dashboard" target="_blank">
                         Dashboard
-                      </a>
+                      </Link>
                     </li>
                   </ul>
                 </div>
@@ -83,39 +79,18 @@ const Footer = (props: Props) => {
                   <h5 className="footer-title">Legal</h5>
                   <ul className="footer-nav-link style-none">
                     <li>
-                      <a href="faq.html">Terms & conditions</a>
-                    </li>
-                    <li>
-                      <a href="faq.html">Cookie</a>
-                    </li>
-                    <li>
-                      <a href="faq.html">Privacy policy</a>
-                    </li>
-                    <li>
-                      <a href="faq.html">Faqs</a>
+                      <Link href="/faqs">Faqs</Link>
                     </li>
                   </ul>
                 </div>
                 <div className="footer-nav mt-100 lg-mt-80 xs-mt-30">
-                  <h5 className="footer-title">New Listing</h5>
+                  <h5 className="footer-title">Admin</h5>
                   <ul className="footer-nav-link style-none">
                     <li>
-                      <a href="listing_01.html">​Buy Apartments</a>
+                      <Link href="/admin/properties">Properties</Link>
                     </li>
                     <li>
-                      <a href="listing_02.html">Buy Condos</a>
-                    </li>
-                    <li>
-                      <a href="listing_03.html">Rent Houses</a>
-                    </li>
-                    <li>
-                      <a href="listing_04.html">Rent Industrial</a>
-                    </li>
-                    <li>
-                      <a href="listing_05.html">Buy Villas</a>
-                    </li>
-                    <li>
-                      <a href="listing_06.html">Rent Office</a>
+                      <Link href="/admin/add-property">Add Property</Link>
                     </li>
                   </ul>
                 </div>

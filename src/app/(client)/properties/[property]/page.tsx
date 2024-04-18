@@ -4,7 +4,7 @@ type Props = {};
 
 const ViewProperty = (props: Props) => {
   return (
-    <div className="listing-details-one theme-details-one border-top mt-130 lg-mt-100 pt-70 pb-150 xl-pb-120">
+    <div className="listing-details-one theme-details-one border-top mt-120 lg-mt-100 pt-70 pb-150 xl-pb-120">
       <div className="container">
         <div className="row">
           <div className="col-lg-6">
@@ -23,7 +23,7 @@ const ViewProperty = (props: Props) => {
           </div>
           <div className="col-lg-6 text-lg-end">
             <div className="d-inline-block md-mt-40">
-              <div className="price color-dark fw-500">Price: ₦1,67,000</div>
+              <div className="price color-dark fw-500">Price: ₦1,670,000</div>
               <div className="est-price fs-20 mt-25 mb-35 md-mb-30">
                 Est. Payment{" "}
                 <span className="fw-500 color-dark">₦8,343/mo*</span>

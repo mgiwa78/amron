@@ -1220,7 +1220,7 @@ const Properties = (props: Props) => {
             </li>
           </ul>
         </div>
-      </div>{" "}
+      </div>
     </>
   );
 };

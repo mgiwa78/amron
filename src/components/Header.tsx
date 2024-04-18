@@ -11,7 +11,7 @@ const Header = (props: Props) => {
           <div className="d-flex align-items-center justify-content-between">
             <div className="logo order-lg-0">
               <a href="/" className="d-flex align-items-center">
-                <img height="70" src="images/logo/logo_012.png" alt="" />
+                <img height="70" src="/images/logo/logo_012.png" alt="" />
               </a>
             </div>
             <div className="right-widget ms-auto ms-lg-0 me-3 me-lg-0 order-lg-3">
