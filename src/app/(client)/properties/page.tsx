@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 type Props = {};
@@ -191,9 +192,9 @@ const Properties = (props: Props) => {
                   </div>
                 </div>
                 <div className="property-info pt-20">
-                  <a href="listing_details_06.html" className="title tran3s">
+                  <Link href="/properties/property" className="title tran3s">
                     Blueberry villa
-                  </a>
+                  </Link>
                   <div className="address">Mirpur 10, Stadium dhaka 1208</div>
                   <ul className="style-none feature d-flex flex-wrap align-items-center justify-content-between pb-15 pt-5">
                     <li className="d-flex align-items-center">
@@ -231,9 +232,9 @@ const Properties = (props: Props) => {
                     <strong className="price fw-500 color-dark">
                       ₦1,710/<sub>m</sub>
                     </strong>
-                    <a href="listing_details_06.html" className="btn-four">
+                    <Link href="/properties/property" className="btn-four">
                       <i className="bi bi-arrow-up-right"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -314,9 +315,9 @@ const Properties = (props: Props) => {
                   </div>
                 </div>
                 <div className="property-info pt-20">
-                  <a href="listing_details_06.html" className="title tran3s">
+                  <Link href="/properties/property" className="title tran3s">
                     White House villa
-                  </a>
+                  </Link>
                   <div className="address">Muza link road, ca, usa</div>
                   <ul className="style-none feature d-flex flex-wrap align-items-center justify-content-between pb-15 pt-5">
                     <li className="d-flex align-items-center">
@@ -352,9 +353,9 @@ const Properties = (props: Props) => {
                   </ul>
                   <div className="pl-footer top-border bottom-border d-flex align-items-center justify-content-between">
                     <strong className="price fw-500 color-dark">₦37,200</strong>
-                    <a href="listing_details_06.html" className="btn-four">
+                    <Link href="/properties/property" className="btn-four">
                       <i className="bi bi-arrow-up-right"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -435,9 +436,9 @@ const Properties = (props: Props) => {
                   </div>
                 </div>
                 <div className="property-info pt-20">
-                  <a href="listing_details_06.html" className="title tran3s">
+                  <Link href="/properties/property" className="title tran3s">
                     Blueberry villa
-                  </a>
+                  </Link>
                   <div className="address">Mirpur 10, Stadium</div>
                   <ul className="style-none feature d-flex flex-wrap align-items-center justify-content-between pb-15 pt-5">
                     <li className="d-flex align-items-center">
@@ -471,9 +472,9 @@ const Properties = (props: Props) => {
                   </ul>
                   <div className="pl-footer top-border bottom-border d-flex align-items-center justify-content-between">
                     <strong className="price fw-500 color-dark">₦28,300</strong>
-                    <a href="listing_details_06.html" className="btn-four">
+                    <Link href="/properties/property" className="btn-four">
                       <i className="bi bi-arrow-up-right"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -551,9 +552,9 @@ const Properties = (props: Props) => {
                   </div>
                 </div>
                 <div className="property-info pt-20">
-                  <a href="listing_details_06.html" className="title tran3s">
+                  <Link href="/properties/property" className="title tran3s">
                     White House villa
-                  </a>
+                  </Link>
                   <div className="address">Muza link road, ca, usa</div>
                   <ul className="style-none feature d-flex flex-wrap align-items-center justify-content-between pb-15 pt-5">
                     <li className="d-flex align-items-center">
@@ -589,9 +590,9 @@ const Properties = (props: Props) => {
                     <strong className="price fw-500 color-dark">
                       ₦2,370/<sub>m</sub>
                     </strong>
-                    <a href="listing_details_06.html" className="btn-four">
+                    <Link href="/properties/property" className="btn-four">
                       <i className="bi bi-arrow-up-right"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -672,9 +673,9 @@ const Properties = (props: Props) => {
                   </div>
                 </div>
                 <div className="property-info pt-20">
-                  <a href="listing_details_06.html" className="title tran3s">
+                  <Link href="/properties/property" className="title tran3s">
                     Blueberry villa
-                  </a>
+                  </Link>
                   <div className="address">Mirpur 10, Stadium</div>
                   <ul className="style-none feature d-flex flex-wrap align-items-center justify-content-between pb-15 pt-5">
                     <li className="d-flex align-items-center">
@@ -710,9 +711,9 @@ const Properties = (props: Props) => {
                     <strong className="price fw-500 color-dark">
                       ₦1,329/<sub>m</sub>
                     </strong>
-                    <a href="listing_details_06.html" className="btn-four">
+                    <Link href="/properties/property" className="btn-four">
                       <i className="bi bi-arrow-up-right"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -793,9 +794,9 @@ const Properties = (props: Props) => {
                   </div>
                 </div>
                 <div className="property-info pt-20">
-                  <a href="listing_details_06.html" className="title tran3s">
+                  <Link href="/properties/property" className="title tran3s">
                     White House villa
-                  </a>
+                  </Link>
                   <div className="address">Muza link road, ca, usa</div>
                   <ul className="style-none feature d-flex flex-wrap align-items-center justify-content-between pb-15 pt-5">
                     <li className="d-flex align-items-center">
@@ -829,9 +830,9 @@ const Properties = (props: Props) => {
                   </ul>
                   <div className="pl-footer top-border bottom-border d-flex align-items-center justify-content-between">
                     <strong className="price fw-500 color-dark">₦28,100</strong>
-                    <a href="listing_details_06.html" className="btn-four">
+                    <Link href="/properties/property" className="btn-four">
                       <i className="bi bi-arrow-up-right"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -909,9 +910,9 @@ const Properties = (props: Props) => {
                   </div>
                 </div>
                 <div className="property-info pt-20">
-                  <a href="listing_details_06.html" className="title tran3s">
+                  <Link href="/properties/property" className="title tran3s">
                     Blueberry villa
-                  </a>
+                  </Link>
                   <div className="address">Mirpur 10, Stadium dhaka 1208</div>
                   <ul className="style-none feature d-flex flex-wrap align-items-center justify-content-between pb-15 pt-5">
                     <li className="d-flex align-items-center">
@@ -949,9 +950,9 @@ const Properties = (props: Props) => {
                     <strong className="price fw-500 color-dark">
                       ₦1,710/<sub>m</sub>
                     </strong>
-                    <a href="listing_details_06.html" className="btn-four">
+                    <Link href="/properties/property" className="btn-four">
                       <i className="bi bi-arrow-up-right"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -1032,9 +1033,9 @@ const Properties = (props: Props) => {
                   </div>
                 </div>
                 <div className="property-info pt-20">
-                  <a href="listing_details_06.html" className="title tran3s">
+                  <Link href="/properties/property" className="title tran3s">
                     White House villa
-                  </a>
+                  </Link>
                   <div className="address">Muza link road, ca, usa</div>
                   <ul className="style-none feature d-flex flex-wrap align-items-center justify-content-between pb-15 pt-5">
                     <li className="d-flex align-items-center">
@@ -1070,9 +1071,9 @@ const Properties = (props: Props) => {
                   </ul>
                   <div className="pl-footer top-border bottom-border d-flex align-items-center justify-content-between">
                     <strong className="price fw-500 color-dark">₦37,200</strong>
-                    <a href="listing_details_06.html" className="btn-four">
+                    <Link href="/properties/property" className="btn-four">
                       <i className="bi bi-arrow-up-right"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
@@ -1153,9 +1154,9 @@ const Properties = (props: Props) => {
                   </div>
                 </div>
                 <div className="property-info pt-20">
-                  <a href="listing_details_06.html" className="title tran3s">
+                  <Link href="/properties/property" className="title tran3s">
                     Blueberry villa
-                  </a>
+                  </Link>
                   <div className="address">Mirpur 10, Stadium</div>
                   <ul className="style-none feature d-flex flex-wrap align-items-center justify-content-between pb-15 pt-5">
                     <li className="d-flex align-items-center">
@@ -1189,9 +1190,9 @@ const Properties = (props: Props) => {
                   </ul>
                   <div className="pl-footer top-border bottom-border d-flex align-items-center justify-content-between">
                     <strong className="price fw-500 color-dark">₦28,300</strong>
-                    <a href="listing_details_06.html" className="btn-four">
+                    <Link href="/properties/property" className="btn-four">
                       <i className="bi bi-arrow-up-right"></i>
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>
