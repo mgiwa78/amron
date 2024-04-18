@@ -10,7 +10,7 @@ const SideBar = (props: Props) => {
     <aside className="dash-aside-navbar">
       <div className="position-relative">
         <div className="logo d-md-block d-flex align-items-center justify-content-between plr bottom-line pb-30">
-          <a href="dashboard-index.html">
+          <a href="/">
             <img
               src="/images/logo/logo_01 copy.png"
               style={{ height: "70px" }}
