@@ -457,8 +457,8 @@ const Message = (props: Props) => {
                     </ul>
                     <p>
                       After that we need to redesign our landing page because
-                      the current one doesn't carry any information. If you have
-                      any question don’t hesitate to contact us.
+                      the current one doesn&lsquo;t carry any information. If
+                      you have any question don&lsquo;t hesitate to contact us.
                     </p>
                     <p>
                       Our Telegram{" "}
