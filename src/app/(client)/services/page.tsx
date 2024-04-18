@@ -133,8 +133,8 @@ const Services = (props: Props) => {
                   Rent a home
                 </div>
                 <p className="fs-24 ps-xxl-3 pe-xxl-3">
-                  Discover a rental you'll love on homy, thanks to 35+ filters
-                  and tailored keywords.
+                  Discover a rental you&lsquo;ll love on homy, thanks to 35+
+                  filters and tailored keywords.
                 </p>
               </div>
             </div>
@@ -213,7 +213,8 @@ const Services = (props: Props) => {
                 </div>
                 <h6>Rent a Home</h6>
                 <p>
-                  Discover a rental you'll love on homy, thanks to 35+ filters.
+                  Discover a rental you&lsquo;ll love on homy, thanks to 35+
+                  filters.
                 </p>
                 <a
                   href="service_details.html"
@@ -271,7 +272,8 @@ const Services = (props: Props) => {
                 </div>
                 <h6>Consulting</h6>
                 <p>
-                  Discover a rental you'll love on homy, thanks to 35+ filters.
+                  Discover a rental you&lsquo;ll love on homy, thanks to 35+
+                  filters.
                 </p>
                 <a
                   href="service_details.html"

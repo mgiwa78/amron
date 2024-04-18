@@ -1107,7 +1107,8 @@ const ViewProperty = (props: Props) => {
                 >
                   Sign in
                 </a>{" "}
-                to post your comment or signup if you don't have any account.
+                to post your comment or signup if you don&lsquo;t have any
+                account.
               </p>
 
               <div className="bg-dot p-30">

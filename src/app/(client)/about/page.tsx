@@ -33,7 +33,7 @@ const About = (props: Props) => {
                   <h3>
                     Secure your
                     <span>
-                      family's
+                      family&lsquo;s
                       <img
                         src="/images/shape/title_shape_06.svg"
                         alt=""

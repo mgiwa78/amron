@@ -18,11 +18,11 @@ const Error404 = (props: Props) => {
                     className=""
                   />
                 </span>
-                It looks like you're lost.
+                It looks like you&lsquo;re lost.
               </h3>
               <p className="fs-20 pb-45">
-                The page you're looking for isn't available. Try to search again
-                or use the go to
+                The page you&lsquo;re looking for isn&lsquo;t available. Try to
+                search again or use the go to
               </p>
               <a
                 href="index.html"
