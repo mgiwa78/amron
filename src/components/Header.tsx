@@ -60,13 +60,33 @@ const Header = (props: Props) => {
                     </div>
                   </li>
                   <li className="nav-item ">
+                    <Link className="nav-link " href="/" role="button">
+                      Home
+                    </Link>
+                  </li>
+                  <li className="nav-item ">
                     <Link className="nav-link" href="/admin" target="_blank">
                       Dashboard
                     </Link>
                   </li>
                   <li className="nav-item ">
-                    <Link className="nav-link " href="/" role="button">
-                      Home
+                    <Link className="nav-link" href="/about">
+                      About
+                    </Link>
+                  </li>
+                  <li className="nav-item ">
+                    <Link className="nav-link" href="/properties">
+                      Properties
+                    </Link>
+                  </li>
+                  <li className="nav-item ">
+                    <Link className="nav-link" href="/projects">
+                      Projects
+                    </Link>
+                  </li>
+                  <li className="nav-item ">
+                    <Link className="nav-link" href="/contact">
+                      Contact
                     </Link>
                   </li>
                 </ul>

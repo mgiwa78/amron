@@ -63,9 +63,15 @@ export default function Home() {
                         <div className="input-box-one border-left border-lg-0">
                           <div className="label">Price Range</div>
                           <select className="nice-select">
-                            <option value="1">$10,000 - $200,000</option>
-                            <option value="2">$200,000 - $300,000</option>
-                            <option value="2">$300,000 - $400,000</option>
+                            <option value="1">
+                              ₦10,000,000 - ₦200,000,000
+                            </option>
+                            <option value="2">
+                              ₦200,000,000 - ₦300,000,000
+                            </option>
+                            <option value="2">
+                              ₦300,000,000 - ₦400,000,000
+                            </option>
                           </select>
                         </div>
                       </div>
@@ -579,7 +585,7 @@ export default function Home() {
                     </ul>
                     <div className="pl-footer top-border d-flex align-items-center justify-content-between">
                       <strong className="price fw-500 color-dark">
-                        $3,280/<sub>m</sub>
+                        ₦90,800/<sub>m</sub>
                       </strong>
                       <a
                         href="listing_details_01.html"
@@ -705,7 +711,7 @@ export default function Home() {
                     </ul>
                     <div className="pl-footer top-border d-flex align-items-center justify-content-between">
                       <strong className="price fw-500 color-dark">
-                        $28,100.00
+                        ₦28,000,100
                       </strong>
                       <a
                         href="listing_details_01.html"
@@ -831,7 +837,7 @@ export default function Home() {
                     </ul>
                     <div className="pl-footer top-border d-flex align-items-center justify-content-between">
                       <strong className="price fw-500 color-dark">
-                        $42,500.00
+                        ₦42,000,500
                       </strong>
                       <a
                         href="listing_details_01.html"
@@ -954,7 +960,7 @@ export default function Home() {
                     </ul>
                     <div className="pl-footer top-border d-flex align-items-center justify-content-between">
                       <strong className="price fw-500 color-dark">
-                        $3,280/<sub>m</sub>
+                        ₦200,080/<sub>m</sub>
                       </strong>
                       <a
                         href="listing_details_01.html"
@@ -1080,7 +1086,7 @@ export default function Home() {
                     </ul>
                     <div className="pl-footer top-border d-flex align-items-center justify-content-between">
                       <strong className="price fw-500 color-dark">
-                        $28,100.00
+                        ₦28,000,100
                       </strong>
                       <a
                         href="listing_details_01.html"
@@ -1206,7 +1212,7 @@ export default function Home() {
                     </ul>
                     <div className="pl-footer top-border d-flex align-items-center justify-content-between">
                       <strong className="price fw-500 color-dark">
-                        $3,280/<sub>m</sub>
+                        ₦100,080/<sub>m</sub>
                       </strong>
                       <a
                         href="listing_details_01.html"
@@ -1286,7 +1292,7 @@ export default function Home() {
                   <div className="col-md-7 d-flex">
                     <div className="gutter w-100 h-100">
                       <p>Mirpur 10, National Stadium, 1210, Dhaka, BD</p>
-                      <h2 className="price text-center">$28,100.00</h2>
+                      <h2 className="price text-center">₦28,000,100</h2>
                       <ul className="style-none d-flex feature">
                         <li>
                           <strong className="d-block color-dark fw-500 fs-20">
@@ -1494,7 +1500,7 @@ export default function Home() {
                 <div className="card-one">
                   <div className="text text-center z-1">
                     <h6>Your estimate is in!</h6>
-                    <h3>$378,30.00</h3>
+                    <h3>₦378,000,30</h3>
                   </div>
                   <img
                     src="/images/assets/screen_12.png"
